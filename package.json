@@ -1,0 +1,11 @@
+{
+  "name": "learning-fastify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kazumatsudo/learning-fastify.git",
+  "author": "Kazuma Matsudo <matsudo.kazuma@unipro.co.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^1.13.0"
+  }
+}
